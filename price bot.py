@@ -30,7 +30,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # ================== تنظیمات (این‌ها رو پر کن) ==================
-BOT_TOKEN = "PUT-YOUR-SECOND-BOT-TOKEN-HERE"
+BOT_TOKEN = "8824972641:AAGvxnayAuTNpIYK6lFmkGVfJ060DXSnXmc"
+
 
 ADMIN_IDS = {
     5063260641,  # m
