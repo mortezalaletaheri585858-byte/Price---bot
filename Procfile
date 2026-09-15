@@ -1,2 +1,2 @@
-worker : price_bot.py
+worker: python price_bot.py
 
